@@ -1,0 +1,33 @@
+1 - C
+2 - B
+3 - B
+4 - C
+5 - B
+6 - C
+7 - C
+8 - C
+9 - D
+10 - C
+11 - B
+12 - B
+13 -  Ada Lovelace: Trabalhou com a maquina analitica, onde seu algoritmo foi considerado o primeiro algoritmo a ser processado por uma máquina  
+Alan Turing: Quebrou algoritmos em contexto de segunda guerra e lançou os alicerces para o computador de grande porte
+14 - A apple a microsoft rompeu com os enormes computadores, popularizando os pc´s caseiros, saindo de ambientes burocraticos e indo para as casas
+15 - O debate continua relevante pq foi um marco estrutural para a conceituação dos computadores, que para além de uma questão meramente tequica, é embargada
+de filosofia
+16 - A ARPANET, criada pela DARPA e universidades, deu origem à internet. A adoção do TCP/IP em 1982 padronizou a comunicação entre redes diferentes, permitindo 
+sua expansão comercial e transformação na internet global.
+17 - A régua de cálculos (mecânica) e a máquina de Babbage (programável) evoluíram para a solução eletromecânica de Hollerith, que usava cartões perfurados e impulsos
+elétricos para processar dados em larga escala, antecipando a computação eletrônica.
+18 - O bit (0 ou 1) é a unidade básica de dados, enquanto o byte (8 bits) forma caracteres como letras e símbolos via códigos como ASCII e Unicode, essenciais para 
+a linguagem humana.
+19 - Na notação posicional o valor do dígito muda conforme a posição (ex: decimal), enquanto na não posicional o valor é fixo, independente da posição (ex: algarismos romanos)
+Hexadecimal 3C9 para Decimal:
+3C9 = 3×256 + 12×16 + 9×1
+= 768 + 192 + 9
+= 969
+Decimal 105 para Binário:
+105 → 105÷2=52 (resto 1), 52÷2=26 (0), 26÷2=13 (0), 13÷2=6 (1), 6÷2=3 (0), 3÷2=1 (1), 1÷2=0 (1)
+Lendo os restos de baixo para cima: 1101001
+20 - Uma estação de trabalho é um computador de alto desempenho para um único usuário executar tarefas especializadas, como projetos de engenharia ou simulações.
+ Já o minicomputador era um sistema multiusuário que servia a departamentos inteiros. Com a evolução dos PCs potentes e servidores, essa diferença tornou-se menos relevante.
